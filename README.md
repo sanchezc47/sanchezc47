@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sanchezc47
+- 👀 I’m interested in learning how to develop my programming skills
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on any mobile or web projects
+- 📫 How to reach me 
+-   sanchezc47@knights.ucf.edu
+-   christophersanchez1997@hotmail.com
